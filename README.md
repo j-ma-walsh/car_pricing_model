@@ -13,4 +13,4 @@
 - The final RMSE for the model was £1781.
 
 ### Model Predicted Price against Real Price for Training Data
-!(predicted_v_real_price.png)
+![](https://github.com/j-ma-walsh/car_pricing_model/blob/main/predicted_v_real_price.png)
